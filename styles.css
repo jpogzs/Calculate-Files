@@ -1,10 +1,12 @@
+/* Author: Pogi */
+
 body {
   background-color: #111;
   color: #eee;
   font-family: "Courier New", monospace;
   font-size: 16px;
   padding: 20px;
-  white-space: pre-line; /* Preserve line breaks */
+  white-space: pre-line;
 }
 
 .error {

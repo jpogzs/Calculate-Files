@@ -1,3 +1,5 @@
+// Author: Pogi
+
 const output = document.getElementById("output");
 
 // Build initial header (fastest: build string in memory)
